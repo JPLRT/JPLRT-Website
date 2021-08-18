@@ -17,8 +17,9 @@ National Statistical Day Webinar - 2021
 
 url: 
 - https://docs.google.com/presentation/d/1B2tEnNoFzjRfxot6jryHwQ1cpb_x4z8i/edit#slide=id.p1
+<iframe src="https://onedrive.live.com/embed?cid=5B39D039B613CDB8&amp;resid=5B39D039B613CDB8%21462&amp;authkey=AIsDgaMmlPxd36g&amp;em=2&amp;wdAr=1.7777777777777777" width="610px" height="367px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 ---
-https://onedrive.live.com/embed?cid=5B39D039B613CDB8&amp;resid=5B39D039B613CDB8%21462&amp;authkey=AIsDgaMmlPxd36g&amp;em=2&amp;wdAr=1.7777777777777777
+
 
 ---
 Kalam's Rememberance Webinar
