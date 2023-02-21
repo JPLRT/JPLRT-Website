@@ -10,7 +10,7 @@ params:
   google_analytics_id: ''
   homepage_meta_tags:
     meta_description: JPL Research Team aims to provide a high level of granularity in Statistical Research.
-    meta_og_description: JPL Research Team aims to provide a high level of granularity in Statistical Research.
+    meta_og_description: JPL Research Team aims to provide a high level of granularity in Statistical Analysis.
     meta_og_image: https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png
     meta_og_title: JPL Research Team
     meta_og_type: website
